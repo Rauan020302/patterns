@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42580061-c12d-4da1-bf80-9258fe2a6c7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/StarbuzzCoffeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/starbuzz/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uLa07gCXxrUCU4hw1EbGTHeE8B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyWorks\Patterns\Decorator декоратор\patterns" />
+      <recent name="C:\MyWorks\Patterns\Decorator декоратор\patterns\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StarbuzzCoffeeMain">
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.input.InputTest" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="patterns" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbuzzCoffeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.starbuzz.StarbuzzCoffeeMain" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.starbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StarbuzzCoffeeMain" />
+      <item itemvalue="Application.InputTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarbuzzCoffeeMain" />
+        <item itemvalue="Application.InputTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42580061-c12d-4da1-bf80-9258fe2a6c7e" name="Default Changelist" comment="" />
+      <created>1624447096777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624447096777</updated>
+      <workItem from="1624447100466" duration="2530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1624449719099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1624449719099" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1624450346641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624450346641" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1624450346641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624450346641" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1624450346640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624450346640" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1624450346641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624450346641" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624447494593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624447494593" />
+  </component>
+</project>
