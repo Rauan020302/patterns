@@ -1,6 +1,5 @@
 package com.company.facade;
 
-import java.util.Comparator;
 
 public class FacadeApp {
     public static void main(String[] args) {
